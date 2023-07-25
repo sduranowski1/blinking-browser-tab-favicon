@@ -50,7 +50,7 @@ var Observer = async function() {
 
 
 
-//Successful JS(JQuerry) blinking favicon code   
+//Successful JS(jQuery) blinking favicon code   
 var interval = setInterval(function () {
     if ($('.counter').is(':visible')) {
         demo()
